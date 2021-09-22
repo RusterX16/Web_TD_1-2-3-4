@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="Exo 2 from TD 3 reached :&#10;- contact.html created&#10;- html structure released&#10;- font url refactored">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rubik-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/res/font/Rubik-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="app.teamhub.trackedBranches" value="1onkrsi/master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -46,7 +51,7 @@
       <updated>1632292205673</updated>
       <workItem from="1632292208685" duration="70000" />
       <workItem from="1632292324953" duration="544000" />
-      <workItem from="1632292899771" duration="870000" />
+      <workItem from="1632292899771" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1632292360581</created>
@@ -62,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632292470679</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exo 2 from TD 3 reached :&#10;- contact.html created&#10;- html structure released&#10;- font url refactored">
+      <created>1632293869041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632293869041</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Exo 2 from TD 3 reached :&#10;- contact.html created&#10;- html structure released&#10;- font url refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exo 2 from TD 3 reached :&#10;- contact.html created&#10;- html structure released&#10;- font url refactored" />
   </component>
 </project>

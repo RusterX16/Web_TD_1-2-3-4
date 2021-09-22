@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="Exo 2 from TD 3 reached :&#10;- contact.html created&#10;- html structure released&#10;- font url refactored">
+    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="contact.html verified">
+      <change afterPath="$PROJECT_DIR$/res/img/contact.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <updated>1632292205673</updated>
       <workItem from="1632292208685" duration="70000" />
       <workItem from="1632292324953" duration="544000" />
-      <workItem from="1632292899771" duration="1401000" />
+      <workItem from="1632292899771" duration="2773000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1632292360581</created>
@@ -74,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632293869041</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="contact.html verified">
+      <created>1632294419812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632294419812</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Exo 2 from TD 3 reached :&#10;- contact.html created&#10;- html structure released&#10;- font url refactored" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exo 2 from TD 3 reached :&#10;- contact.html created&#10;- html structure released&#10;- font url refactored" />
+    <MESSAGE value="contact.html verified" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact.html verified" />
   </component>
 </project>

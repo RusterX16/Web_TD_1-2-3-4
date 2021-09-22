@@ -1,0 +1,47 @@
+body {
+	background-color: #838892;
+	width: 600px;
+}
+
+h2 {
+	font-family: "Rubik", "Arial";
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+p {
+	margin-left: 5px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #0088FF;
+}
+
+a:hover {
+	color: orange;
+}
+
+@font-face {
+	font-family: Rubik;
+	src: url(Rubik-Black.ttf);
+}
+
+.even {
+	background-color: #5BBDBF;
+}
+
+.uneven {
+	background-color: #FF5850;
+}
+
+.skill {
+	color: red;
+	font-style: italic;
+}

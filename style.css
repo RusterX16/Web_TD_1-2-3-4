@@ -4,7 +4,7 @@ body {
 }
 
 h2 {
-	font-family: "Rubik", "Arial";
+	font-family: "Rubik", "Arial", serif;
 	text-align: center;
 }
 
@@ -30,7 +30,7 @@ a:hover {
 
 @font-face {
 	font-family: Rubik;
-	src: url(Rubik-Black.ttf);
+	src: url(res/font/Rubik-Black.ttf);
 }
 
 .even {

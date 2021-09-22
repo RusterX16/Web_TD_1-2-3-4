@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="Table released and website verified">
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="TD 3 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TD1.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
       <updated>1632292205673</updated>
       <workItem from="1632292208685" duration="70000" />
       <workItem from="1632292324953" duration="544000" />
-      <workItem from="1632292899771" duration="9091000" />
+      <workItem from="1632292899771" duration="9663000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1632292360581</created>
@@ -91,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632295741388</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="TD 3 done">
+      <created>1632302628879</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632302628879</updated>
+    </task>
+    <task id="LOCAL-00007" summary="TD 3 done">
+      <created>1632302675398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632302675398</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,7 +125,8 @@
     <MESSAGE value="Exo 2 from TD 3 reached :&#10;- contact.html created&#10;- html structure released&#10;- font url refactored" />
     <MESSAGE value="contact.html verified" />
     <MESSAGE value="Table released and website verified" />
-    <option name="LAST_COMMIT_MESSAGE" value="Table released and website verified" />
+    <MESSAGE value="TD 3 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="TD 3 done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

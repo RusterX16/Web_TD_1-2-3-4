@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="contact.html verified">
-      <change afterPath="$PROJECT_DIR$/res/img/contact.jpg" afterDir="false" />
+    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="Table released and website verified">
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -51,7 +54,7 @@
       <updated>1632292205673</updated>
       <workItem from="1632292208685" duration="70000" />
       <workItem from="1632292324953" duration="544000" />
-      <workItem from="1632292899771" duration="2773000" />
+      <workItem from="1632292899771" duration="9091000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1632292360581</created>
@@ -81,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632294419812</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Table released and website verified">
+      <created>1632295741388</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1632295741388</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +113,11 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Exo 2 from TD 3 reached :&#10;- contact.html created&#10;- html structure released&#10;- font url refactored" />
     <MESSAGE value="contact.html verified" />
-    <option name="LAST_COMMIT_MESSAGE" value="contact.html verified" />
+    <MESSAGE value="Table released and website verified" />
+    <option name="LAST_COMMIT_MESSAGE" value="Table released and website verified" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

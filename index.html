@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8"/>
-    <link href="style.css" type="text/css" rel="stylesheet"/>
+    <link href="styles.css" type="text/css" rel="stylesheet"/>
     <title>Site officiel de Chuck Norris</title>
 </head>
 <body>
@@ -18,8 +18,10 @@
     </blockquote>
 
     <nav>
-        <a href="index.html">Accueil</a>
-        <a href="contact.html">Contact</a>
+        <ul>
+            <li><a href="index.html">Accueil</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
     </nav>
 </header>
 
@@ -29,13 +31,15 @@
             <h2 class="even">Biographie (From Wikipedia)</h2>
 
             <section>
-                <h3 class="uneven">L'enfance</h3>
+                <h3 class="odd">L'enfance</h3>
 
-                <img src="res/img/chuck-jeune.jpg" alt="Chuck Young">
-
+                <img id="childhood" src="res/img/chuck-jeune.jpg" alt="Chuck Young">
                 <p>
                     Carlos Ray Norris, plus connu en tant que Chuck Norris, est un acteur américain né le 10 mars 1940 à
-                    Ryan (Oklahoma). Spécialiste en arts martiaux, il s'est essentiellement consacré au cinéma d'action.
+                    Ryan (Oklahoma).
+                </p>
+                <p id="pgr2">
+                    Spécialiste en arts martiaux, il s'est essentiellement consacré au cinéma d'action.
                     Natif de Ryan dans l'Oklahoma, Carlos Ray Norris
                     a deux frères cadets dont l'un est le producteur hollywoodien Aaron Norris. Ses parents sont de
                     souche
@@ -60,7 +64,7 @@
             </section>
 
             <section>
-                <h3 class="uneven">Les sports de combats</h3>
+                <h3 class="odd">Les sports de combats</h3>
 
 
                 <p>
@@ -89,7 +93,7 @@
                 <p>
                     L'année 1964 marque un tournant dans la vie de Chuck Norris quand il rencontre Bruce
                     <br>
-                    <img src="res/img/beware.jpg" alt="Chuck Beware">
+                    <img id="beware" src="res/img/beware.jpg" alt="Chuck Beware">
                     <br>
                     Lee. Malgré une amitié affichée entre les deux hommes, il semble cependant que leurs relations ont
                     été
@@ -118,7 +122,7 @@
             </section>
 
             <section>
-                <h3 class="uneven">Ces vingt dernières années</h3>
+                <h3 class="odd">Ces vingt dernières années</h3>
 
                 <p>
                     En 1994, aux Survivor Series (pay-per-view de la WWE), il arbitre un Special Guest Referee Casket
@@ -151,7 +155,7 @@
         </section>
 
         <section>
-            <h2 class="uneven">Le Top 10 des derniers facts proposés</h2>
+            <h2 class="odd">Le Top 10 des derniers facts proposés</h2>
 
             <ol>
                 <li>Le calendrier de Chuck Norris passe du 31 mars au 2 avril. Personne ne fait de blague à Chuck.</li>
@@ -189,67 +193,65 @@
 
             <tbody>
             <tr>
-                <th>Chuck Norris</th>
-                <th>5</th>
-                <th>5</th>
-                <th>5</th>
-                <th>5</th>
-                <th>5</th>
-                <th>5</th>
+                <td>Chuck Norris</td>
+                <td colspan="6"><strong>5</strong></td>
             </tr>
             <tr>
-                <th>Steven Seagal</th>
-                <th>3</th>
-                <th>5</th>
-                <th>3</th>
-                <th>2</th>
-                <th>3</th>
-                <th>5</th>
+                <td>Steven Seagal</td>
+                <td>3</td>
+                <td>5</td>
+                <td>3</td>
+                <td>2</td>
+                <td>3</td>
+                <td>5</td>
             </tr>
             <tr>
-                <th>Bruce Lee</th>
-                <th>5</th>
-                <th>3</th>
-                <th>3</th>
-                <th>3</th>
-                <th>4</th>
-                <th>3</th>
+                <td>Bruce Lee</td>
+                <td>5</td>
+                <td>3</td>
+                <td>3</td>
+                <td>3</td>
+                <td>4</td>
+                <td>3</td>
             </tr>
             <tr>
-                <th>Jean-Claude Van Damne</th>
-                <th>5</th>
-                <th>3</th>
-                <th>3</th>
-                <th>3</th>
-                <th>4</th>
-                <th>3</th>
+                <td>Jean-Claude Van Damne</td>
+                <td>5</td>
+                <td>3</td>
+                <td>3</td>
+                <td>3</td>
+                <td>4</td>
+                <td>3</td>
             </tr>
             <tr>
-                <th>Bolo Yeung</th>
-                <th>2</th>
-                <th>4</th>
-                <th>4</th>
-                <th>2</th>
-                <th>5</th>
-                <th>3</th>
+                <td>Bolo Yeung</td>
+                <td>2</td>
+                <td>4</td>
+                <td>4</td>
+                <td>2</td>
+                <td>5</td>
+                <td>3</td>
             </tr>
             <tr>
-                <th>Dolph Lundgren</th>
-                <th>2</th>
-                <th>4</th>
-                <th>4</th>
-                <th>2</th>
-                <th>5</th>
-                <th>3</th>
+                <td>Dolph Lundgren</td>
+                <td>2</td>
+                <td>4</td>
+                <td>4</td>
+                <td>2</td>
+                <td>5</td>
+                <td>3</td>
             </tr>
             </tbody>
         </table>
-
     </aside>
 </main>
 
 <footer>
     <a href="#top">Retour au début</a>
 </footer>
+<div id="links">
+    <img src="res/img/facebook.png" alt="facebook"/>
+    <img src="res/img/twitter.png" alt="twitter"/>
+</div>
 </body>
 </html>

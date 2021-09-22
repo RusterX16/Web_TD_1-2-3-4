@@ -1,0 +1,96 @@
+@font-face {
+	font-family: Rubik;
+	src: url(res/font/Rubik-Black.ttf);
+}
+
+body {
+	background-color: #838892;
+	margin: auto;
+	width: 600px;
+}
+
+table {
+	text-align: center;
+}
+
+thead {
+	background: #00AAFF;
+}
+
+h2 {
+	font-family: "Rubik", "Arial", serif;
+	text-align: center;
+}
+
+h3 {
+	border: 1px solid #CCCCCC;
+	text-align: center;
+}
+
+p {
+	margin: 30px 30px;
+	text-indent: 12px;
+	line-height: 150%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #0088FF;
+}
+
+a:hover {
+	color: orange;
+}
+
+th span.skill {
+	color: #640051;
+	margin: 0 5px;
+}
+
+tbody tr:nth-child(odd) {
+	background: white;
+}
+
+tbody tr:nth-child(even) {
+	background: #CCC;
+}
+
+#childhood {
+	height: 150px;
+	float: left;
+}
+
+#beware {
+	height: 300px;
+	float: right;
+}
+
+#pgr2 {
+	clear: left;
+}
+
+#links {
+	position: fixed;
+	display: grid;
+	grid-gap: 10px;
+	right: 20px;
+	bottom: 10px;
+}
+
+.even {
+	background-color: #5BBDBF;
+	padding: 10px;
+}
+
+.odd {
+	background-color: #FF5850;
+	padding: 10px;
+}
+
+.skill {
+	color: red;
+	font-style: italic;
+}

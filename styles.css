@@ -9,6 +9,11 @@ body {
 	width: 600px;
 }
 
+nav {
+	margin: 0 auto;
+	width: 75%;
+}
+
 table {
 	text-align: center;
 }
@@ -35,6 +40,15 @@ p {
 
 a {
 	text-decoration: none;
+}
+
+nav div {
+	background: #5BBDBF;
+	display: inline;
+}
+
+nav a {
+	background: #c0d5c2;
 }
 
 a:visited {

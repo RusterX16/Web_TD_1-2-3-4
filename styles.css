@@ -10,8 +10,14 @@ body {
 }
 
 nav {
+	background: #FF00FF;
+	flex-direction: row;
+	align-items: center;
+	display: flex;
+	overflow: hidden;
 	margin: 0 auto;
 	width: 75%;
+	height: 200px;
 }
 
 table {
@@ -43,12 +49,16 @@ a {
 }
 
 nav div {
-	background: #5BBDBF;
+	background: #c0d5c2;
+	flex-direction: column;
 	display: inline;
+	border: 2px solid black;
+	padding: 0 10px;
+	width: 100px;
 }
 
-nav a {
-	background: #c0d5c2;
+nav div:first-child {
+	border: none;
 }
 
 a:visited {
@@ -107,4 +117,16 @@ tbody tr:nth-child(even) {
 .skill {
 	color: red;
 	font-style: italic;
+}
+
+.submenu {
+	position: absolute;
+	padding: 200px 0 0 0;
+	background: #ACA;
+	display: none;
+}
+
+nav div:hover .submenu {
+	flex-direction: column;
+	display: flex;
 }

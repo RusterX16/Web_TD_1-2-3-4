@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="Exercice 2 from TD 4 done">
+    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="docx added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TD.docx" beforeDir="false" afterPath="$PROJECT_DIR$/TD.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
@@ -53,6 +54,11 @@
       <workItem from="1632292324953" duration="544000" />
       <workItem from="1632292899771" duration="11153000" />
       <workItem from="1632328956275" duration="973000" />
+      <workItem from="1632384503749" duration="2782000" />
+      <workItem from="1632406727216" duration="248000" />
+      <workItem from="1632458467850" duration="36000" />
+      <workItem from="1632458540960" duration="502000" />
+      <workItem from="1632895580039" duration="4340000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1632292360581</created>
@@ -110,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632303278976</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="docx added">
+      <created>1632384747728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632384747728</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +148,8 @@
     <MESSAGE value="Table released and website verified" />
     <MESSAGE value="TD 3 done" />
     <MESSAGE value="Exercice 2 from TD 4 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercice 2 from TD 4 done" />
+    <MESSAGE value="docx added" />
+    <option name="LAST_COMMIT_MESSAGE" value="docx added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

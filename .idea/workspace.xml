@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="docx added">
+    <list default="true" id="e783934f-8915-437d-b2a9-72fd167fdaaa" name="Changes" comment="Exo 8 reached">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TD.docx" beforeDir="false" afterPath="$PROJECT_DIR$/TD.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -58,7 +58,8 @@
       <workItem from="1632406727216" duration="248000" />
       <workItem from="1632458467850" duration="36000" />
       <workItem from="1632458540960" duration="502000" />
-      <workItem from="1632895580039" duration="4340000" />
+      <workItem from="1632895580039" duration="12777000" />
+      <workItem from="1633496455745" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1632292360581</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632384747728</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exo 8 reached">
+      <created>1632900060790</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632900060790</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +157,8 @@
     <MESSAGE value="TD 3 done" />
     <MESSAGE value="Exercice 2 from TD 4 done" />
     <MESSAGE value="docx added" />
-    <option name="LAST_COMMIT_MESSAGE" value="docx added" />
+    <MESSAGE value="Exo 8 reached" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exo 8 reached" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -1,167 +1,172 @@
 @font-face {
-	font-family: Rubik;
-	src: url(res/font/Rubik-Black.ttf);
+    font-family: Rubik;
+    src: url(res/font/Rubik-Black.ttf);
 }
 
 body {
-	background-color: #838892;
-	margin: auto;
-	width: 900px;
+    background-color: #838892;
+    margin: auto;
+    width: 100%;
 }
 
 header {
-	background: white;
-	display: flex;
+    background: white;
+    display: flex;
 }
 
 main {
-	display: flex;
+    display: flex;
 }
 
 blockquote {
-	width: 50%;
+    width: 50%;
 }
 
 nav {
-	background: #FF00FF;
-	/*align-items: stretch;
-	vertical-align: center;*/
-	justify-content: flex-end;
-	flex-direction: row;
-	display: flex;
-	overflow: hidden;
-	margin: 0 auto;
-	width: 75%;
-	height: 200px;
+    background: #FF00FF;
+    /*align-items: stretch;
+    vertical-align: center;*/
+    justify-content: flex-end;
+    flex-direction: row;
+    display: flex;
+    overflow: hidden;
+    margin: 0 auto;
+    width: 75%;
+    height: auto;
 }
 
 article {
-	background: #CCC;
-	width: 60%;
+    background: #CCC;
+    max-width: 500px;
+    min-width: 200px;
+    width: 67%;
+    flex-shrink: 0;
+    flex-grow: 0;
 }
 
 aside {
-	background: #CCC;
-	margin-left: 10%;
-	width: 30%;
+    background: #CCC;
+    max-width: 250px;
+    min-width: 150px;
+    width: 33%;
+    flex-shrink: 0;
+    flex-grow: 0;
 }
 
 table {
-	text-align: center;
+    text-align: center;
 }
 
 thead {
-	background: #00AAFF;
+    background: #00AAFF;
 }
 
 h2 {
-	font-family: "Rubik", "Arial", serif;
-	text-align: center;
+    font-family: "Rubik", "Arial", sans-serif;
+    text-align: center;
 }
 
 h3 {
-	border: 1px solid #CCCCCC;
-	text-align: center;
+    border: 1px solid #CCCCCC;
+    text-align: center;
 }
 
 p {
-	margin: 30px 30px;
-	text-indent: 12px;
-	line-height: 150%;
+    margin: 30px 30px;
+    text-indent: 12px;
+    line-height: 150%;
 }
 
 a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 nav div {
-	background: #c0d5c2;
-	vertical-align: center;
-	flex-direction: column;
-	display: flex;
-	border: 2px solid black;
-	padding: 0 10px;
-	width: 100px;
+    background: #c0d5c2;
+    vertical-align: center;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 0 10px;
+    width: 100px;
 }
 
 nav div:first-child {
-	border: none;
+    border: none;
 }
 
 a:visited {
-	color: #0088FF;
+    color: #0088FF;
 }
 
 a:hover {
-	color: orange;
+    color: orange;
 }
 
 th span.skill {
-	color: #640051;
-	margin: 0 5px;
+    color: #640051;
+    margin: 0 5px;
 }
 
 tbody tr:nth-child(odd) {
-	background: white;
+    background: white;
 }
 
 tbody tr:nth-child(even) {
-	background: #CCC;
+    background: #CCC;
 }
 
 #childhood {
-	height: 150px;
-	float: left;
+    height: 150px;
+    float: left;
 }
 
 #beware {
-	height: 300px;
-	float: right;
+    height: 300px;
+    float: right;
 }
 
 #pgr2 {
-	clear: left;
+    clear: left;
 }
 
 #links {
-	position: fixed;
-	display: grid;
-	grid-gap: 10px;
-	right: 20px;
-	bottom: 10px;
+    position: fixed;
+    display: grid;
+    grid-gap: 10px;
+    right: 20px;
+    bottom: 10px;
 }
 
 .even {
-	background-color: #5BBDBF;
-	padding: 10px;
+    background-color: #5BBDBF;
+    padding: 10px;
 }
 
 .odd {
-	background-color: #FF5850;
-	padding: 10px;
+    background-color: #FF5850;
+    padding: 10px;
 }
 
 .skill {
-	color: red;
-	font-style: italic;
+    color: red;
+    font-style: italic;
 }
 
 .submenu {
-	position: absolute;
-	padding: 200px 0 0 0;
-	background: #ACA;
-	display: none;
+    position: absolute;
+    background: #ACA;
+    display: none;
 }
 
 .puce {
-	visibility: hidden;
+    visibility: hidden;
 }
 
 main > aside > section > ul > li:hover .puce {
-	visibility: visible;
+    visibility: visible;
 }
 
 nav div:hover .submenu {
-	flex-direction: column;
-	display: flex;
+    flex-direction: column;
+    display: flex;
 }
